@@ -49,10 +49,6 @@ showbreadcrumbs: false
 
 <br/>
 
-<div style="font-size: 20px;">👉Hugo博客交流群</div>
-
-> 787018782
-
 
 
 
